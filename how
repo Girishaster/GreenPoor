@@ -1,0 +1,56 @@
+[33mcommit 4d28781cf65ec0d84f2a57fa6b7e78e9b587719d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: tag1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 16:47:02 2019 +0530
+
+    tag1
+
+[33mcommit ee3f527bf8e0956d383330513ce1fa8df4c8e57b[m[33m ([m[1;33mtag: bosch_1[m[33m, [m[1;31morigin/Branch2[m[33m, [m[1;31morigin/Branch1[m[33m, [m[1;32mBranch2[m[33m, [m[1;32mBranch1[m[33m)[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 13:48:29 2019 +0530
+
+    1 liner
+
+[33mcommit 5f1f2c951f749e7fa1f13944033594e2c2445237[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 13:36:25 2019 +0530
+
+    some 2 l;ines
+
+[33mcommit 7c30cc69dc8fbead396da7e66919c6f5c6e44b10[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 13:09:06 2019 +0530
+
+    deleted some files
+
+[33mcommit 783b86b0af372373e28b75c2fbfe377c57c0a273[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 13:05:54 2019 +0530
+
+    girisha1 committed
+
+[33mcommit 9052da18204f9c044238a9881d3e03ee79a6ae9a[m
+Merge: 15c2cf3 f7196b4
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 12:46:36 2019 +0530
+
+    Merge branch 'master' of https://github.com/girishaster/greenrich
+    
+    sample pull
+
+[33mcommit 15c2cf3004bdd695a1378f7d6d2803cf753aba5c[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 12:23:53 2019 +0530
+
+    latest code
+
+[33mcommit 9eb63e6ea5b885e0f638b315dca1839261f29c7b[m
+Author: girisha <girishaster@gmail.com>
+Date:   Sun Sep 15 12:02:38 2019 +0530
+
+    Java Code - Girisha
+
+[33mcommit f7196b44a359f8a42bdc5ba8bcb920bd5b1655fb[m
+Author: Girishaster <55340149+Girishaster@users.noreply.github.com>
+Date:   Sun Sep 15 10:42:57 2019 +0530
+
+    Initial commit
